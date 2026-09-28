@@ -10,7 +10,7 @@
 
 ## 📸 Visão do Workflow
 
-![Workflow do AI Commercial Assistant](docs/workflow-ai-agent.png)
+![Workflow do AI Commercial Assistant](docs/workflow.png)
 
 > **ORVIAN** utiliza uma arquitetura baseada em agente de IA: o lead entra pelo e-mail, o agente interpreta a mensagem, consulta informações comerciais quando necessário, registra a oportunidade e responde ao cliente.
 
